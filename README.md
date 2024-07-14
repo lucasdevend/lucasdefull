@@ -2,7 +2,6 @@
 
 - 🖥️ Trabalho com Front-end 🟢
 - 🖥️ Estudando Javascript/Typescript 🟢
-- 🖥️ Contate-me no e-mail: lucascontatodevfullstack@gmail.com 🟢
 - 🖥️ Futuramente FullStack 🟢
 
 <div style="display: inline_block"><br>
